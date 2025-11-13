@@ -31,6 +31,7 @@ Prettier is installed alongside `@prettier/plugin-pug` so that you can use `<tem
 ## Requirements
 
 
+
 - You need to define a [Prettier configuration file](https://prettier.io/docs/en/configuration.html), such as `.prettierrc`, in your project, to configure Prettier.
 - You can also define specific formatting rules for Pug in you Prettier configuration file (see [@prettier/plugin-pug](https://github.com/prettier/plugin-pug)).
 - Stylus Supremacy is configured using a dedicated file `.stylusrc`. The name of this file is configurable, see below. See [Stylus Supremacy formatting options](https://thisismanta.github.io/stylus-supremacy/#options) for the list of available options.
