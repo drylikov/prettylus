@@ -25,6 +25,7 @@ Formats `.vue` single file components, where [Prettier](https://prettier.io) is 
 Prettier is installed alongside `@prettier/plugin-pug` so that you can use `<template lang="pug">` templates.
 
 
+
 ## Requirements
 
 - You need to define a [Prettier configuration file](https://prettier.io/docs/en/configuration.html), such as `.prettierrc`, in your project, to configure Prettier.
