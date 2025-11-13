@@ -41,6 +41,7 @@ Prettier is installed alongside `@prettier/plugin-pug` so that you can use `<tem
 
 
 
+
 ## Extension Settings
 
 This extension contributes the following settings:
