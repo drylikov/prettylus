@@ -13,6 +13,7 @@ Seamlessly format Vue SFCs that use Stylus.
 
 
 
+
 ## Features
 
 Formats `.vue` single file components, where [Prettier](https://prettier.io) is used for `<template>` an `<script>` tags, while [Manta’s Stylus Supremacy](https://thisismanta.github.io/stylus-supremacy) is used specifically for `<style lang="stylus">`.
