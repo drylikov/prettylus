@@ -27,6 +27,7 @@ Prettier is installed alongside `@prettier/plugin-pug` so that you can use `<tem
 
 
 
+
 ## Requirements
 
 - You need to define a [Prettier configuration file](https://prettier.io/docs/en/configuration.html), such as `.prettierrc`, in your project, to configure Prettier.
