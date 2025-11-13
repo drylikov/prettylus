@@ -39,6 +39,7 @@ Prettier is installed alongside `@prettier/plugin-pug` so that you can use `<tem
 - Stylus Supremacy is configured using a dedicated file `.stylusrc`. The name of this file is configurable, see below. See [Stylus Supremacy formatting options](https://thisismanta.github.io/stylus-supremacy/#options) for the list of available options.
 
 
+
 ## Extension Settings
 
 This extension contributes the following settings:
